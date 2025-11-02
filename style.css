@@ -1,0 +1,13 @@
+#couch-button.highlighted,
+#desk-button.highlighted {
+  background-color: #4a90e2;
+  border: 3px solid #ffffff;
+  box-shadow: 0 0 10px #4a90e2;
+}
+
+#couch-button:hover,
+#desk-button:hover {
+  background-color: #3a70c2;
+}
+
+
